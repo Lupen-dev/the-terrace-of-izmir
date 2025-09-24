@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <g fill="#2c3e50" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">
+    <text x="50%" y="30%">Proje Detayları</text>
+    <text x="50%" y="40%" font-size="16" fill="#3498db">Modern Mimari Tasarım</text>
+  </g>
+  <rect x="100" y="250" width="600" height="300" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+  <rect x="120" y="270" width="80" height="150" fill="#3498db"/>
+  <rect x="220" y="240" width="80" height="180" fill="#2980b9"/>
+  <rect x="320" y="260" width="80" height="160" fill="#3498db"/>
+  <rect x="420" y="220" width="80" height="200" fill="#2980b9"/>
+  <rect x="520" y="250" width="80" height="170" fill="#3498db"/>
+</svg>

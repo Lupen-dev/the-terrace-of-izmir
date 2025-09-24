@@ -1,0 +1,15 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#ebf5fb"/>
+  <g fill="#2c3e50" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
+    <text x="50%" y="20%">Genel Görünüm</text>
+    <text x="50%" y="30%" font-size="14" fill="#1abc9c">The Terrace of İzmir</text>
+  </g>
+  <rect x="50" y="80" width="500" height="280" fill="#d6eaf8" stroke="#85c1e9" stroke-width="2"/>
+  <rect x="100" y="120" width="50" height="200" fill="#2874a6"/>
+  <rect x="170" y="100" width="50" height="220" fill="#3498db"/>
+  <rect x="240" y="90" width="50" height="230" fill="#2874a6"/>
+  <rect x="310" y="110" width="50" height="210" fill="#3498db"/>
+  <rect x="380" y="80" width="50" height="240" fill="#2874a6"/>
+  <rect x="450" y="95" width="50" height="225" fill="#3498db"/>
+  <text x="50%" y="90%" font-size="12" fill="#1b4f72">Prestijli Yaşam Alanları - İzmir</text>
+</svg>
